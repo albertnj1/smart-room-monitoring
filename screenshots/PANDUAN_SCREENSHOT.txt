@@ -1,0 +1,40 @@
+PANDUAN PENGAMBILAN & PENYIMPANAN SCREENSHOT
+Tugas Responsi Akhir Praktikum PBO - Smart Room Monitoring System
+
+Silakan simpan file screenshot ke dalam folder ini (screenshots/) dengan penamaan berikut:
+
+1. 01_input_panas_32C.png
+   - Buka program (java Main)
+   - Pilih menu 1
+   - Masukkan suhu 32
+   - Screenshot respon kipas menyala otomatis
+
+2. 02_input_normal_24C.png
+   - Pilih menu 1
+   - Masukkan suhu 24
+   - Screenshot respon kipas otomatis mati
+
+3. 03_kontrol_manual_aktif.png
+   - Pilih menu 3
+   - Screenshot pesan kipas berhasil diaktifkan secara manual
+
+4. 04_kontrol_manual_nonaktif.png
+   - Pilih menu 4
+   - Screenshot pesan kipas berhasil dinonaktifkan secara manual
+
+5. 05_status_ruangan.png
+   - Pilih menu 5
+   - Screenshot status monitoring ruangan terkini
+
+6. 06_informasi_perangkat.png
+   - Pilih menu 2
+   - Screenshot informasi perangkat sensor dan kipas
+
+7. 07_validasi_input.png
+   - Masukkan input huruf seperti 'abc' atau angka di luar menu
+   - Screenshot penanganan error yang ramah pengguna
+
+8. 08_verifikasi_test_oop.png
+   - Jalankan 'java TestOOP' atau klik 'test.bat'
+   - Screenshot hasil pembuktian ke-10 requirement bernilai 10/10 TERPENUHI
+
